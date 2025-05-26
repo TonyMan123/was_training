@@ -1,2 +1,2 @@
-# was_training
+# AWS_training
 Just training AWS
